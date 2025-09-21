@@ -1,0 +1,13 @@
+FEST;https://play.radiofest.pl:8443/fest
+Anty;https://an03.cdn.eurozet.pl/ant-web.mp3?t=1713710188361?redirected=03
+Olsztyn;https://rostr1.radioolsztyn.pl:8443/RO
+RMF FM;http://195.150.20.7/rmf_fm
+Elblag;https://rostr1.radioolsztyn.pl:8543/ELBLAG
+Polskieradio;https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8
+BBC;https://www.bbc.com/audio/play/live/bbc_world_service
+NationalPublicRadio;https://npr-ice.streamguys1.com/live.mp3
+Seattle;https://kexp-mp3-128.streamguys1.com/kexp128.mp3
+France;http://direct.franceinter.fr/live/franceinter-midfi.mp3
+Swiss;http://stream.srg-ssr.ch/m/rsp/mp3_128
+Deutch;http://st01.dlf.de/dlf/01/128/mp3/stream.mp3
+Australia;http://live-radio01.mediahubaustralia.com/2RNW/mp3/
