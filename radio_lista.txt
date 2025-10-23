@@ -11,3 +11,5 @@ France;http://direct.franceinter.fr/live/franceinter-midfi.mp3
 Swiss;http://stream.srg-ssr.ch/m/rsp/mp3_128
 Deutch;http://st01.dlf.de/dlf/01/128/mp3/stream.mp3
 Australia;http://live-radio01.mediahubaustralia.com/2RNW/mp3/
+Monachium;https://www.br.de/radio/live/bayern3/
+Lora;https://stream.lora924.de:8080/lora-mp3-256.mp3
